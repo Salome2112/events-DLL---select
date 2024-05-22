@@ -1,4 +1,3 @@
-# events DLL --select
 # Locations
 
 | location_id | name                   | address             | city           | state | country        | postal_code |
@@ -70,4 +69,3 @@ VALUES
 ('Food Festival', 'Deliciosa comida de todo el mundo', '2024-09-10 11:00:00', '2024-09-10 20:00:00'),
 ('Feria del Libro', 'Un encuentro para los amantes de los libros', '2024-10-25 09:00:00', '2024-10-25 16:00:00');
 ![[Captura de pantalla 2024-05-22 174724.png]]![[Captura de pantalla 2024-05-22 174605.png]]![[Captura de pantalla 2024-05-22 174113.png]]![[Captura de pantalla 2024-05-22 174437.png]]![[Captura de pantalla 2024-05-22 173920.png]]
- 
